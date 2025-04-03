@@ -15,13 +15,13 @@
 
 ```bash
 pip install pytest selenium allure-pytest
-
+```
 ```bash
 pip install selenium
-
+```
 ```bash
 pip install pytest
-
+```
 
 Запуск
 
